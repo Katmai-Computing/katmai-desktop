@@ -1,0 +1,21 @@
+{
+  "tag": "v0.1.2",
+  "assets": {
+    "Katmai-Mac-AppleSilicon.dmg": {
+      "bytes": 125635344,
+      "sha256": "7fa99aee2186d77556ddfb897cb56ac08e4fd945427c420032265c6b419e1638"
+    },
+    "Katmai-Mac-Intel.dmg": {
+      "bytes": 131514639,
+      "sha256": "3e52518278b73f51ac8241c2d1983ba14fa4df409ad5760c93f5c0bca7ffbd1e"
+    },
+    "Katmai-Windows-Setup.exe": {
+      "bytes": 123818677,
+      "sha256": "26d8b0a3e691593438fabb50b3f9dda3914948fde7c61eefa1382fc032a1041a"
+    },
+    "SHA256SUMS.txt": {
+      "bytes": 272,
+      "sha256": "abd4992dca736a0d5f8290108a59e07e304ef6f718a338932fbbc22c80a9699b"
+    }
+  }
+}
